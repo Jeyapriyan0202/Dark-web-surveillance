@@ -5,6 +5,7 @@ It will crawl into the given dark website gathers all data include image. Then e
 
 
 # procedure to run this 
-Run the files main, img, finder one by one 
-create virtural environment 
-Install necessary libraries then run the files one by one 
+Run the files main, img, finder one by one, 
+create virtural environment, 
+Install necessary libraries then run the files one by one,
+In the main folder create the images folder to store the downloaded images.
